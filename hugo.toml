@@ -1,0 +1,62 @@
+baseURL = "https://Deepak91168.github.io/"
+title = "Deepak Singh"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  defaultTheme = "auto"
+  hideFooter = true
+  showReadingTime = true
+  showShareButtons = true
+  ShowCodeCopyButtons = true
+  favicon = "favicon.ico"
+  
+[params.assets]
+  favicon = "favicon.ico"
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Deepak"
+  Content = """
+
+My research interests lie at the intersection of Networks and Machine Learning, where I explore data-driven approaches to understand and optimize complex systems. I focus on building end-to-end solutions that leverage modern technologies to deliver meaningful, real-world impact.
+
+I place strong emphasis on designing resource efficient systems ensuring that performance, scalability, and practical usability go hand in hand.
+
+> "Never be limited by other people's limited imaginations."
+
+MS(R) CSE @IIT Delhi (Present) | B.Tech CSE @NIT Hamirpur (2025)
+"""
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/deepak91168/"
+
+[[params.socialIcons]]
+  name = "gmail"
+  url = "mailto:ds9210048@gmail.com"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/Deepak91168"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
