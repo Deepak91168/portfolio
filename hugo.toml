@@ -2,9 +2,6 @@ baseURL = "https://deepak91168.github.io/portfolio/"
 title = "Deepak Singh"
 theme = "PaperMod"
 
-relativeURLs = true
-canonifyURLs = true
-
 [pagination]
   pagerSize = 5
 
