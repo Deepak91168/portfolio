@@ -1,7 +1,7 @@
 +++
 title = 'Interview Experience: MS(R) SIT IIT Delhi (Winter)'
 date = 2025-12-07T00:37:39+05:30
-draft = true
+draft = false
 +++
 
 ## Interview Experience
