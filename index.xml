@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deepak Singh</title>
-    <link>https://Deepak91168.github.io/portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Deepak Singh</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0530</lastBuildDate>
-    <atom:link href="https://Deepak91168.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>B.Tech Major Project: Legal Judgment Summarization using Transformer Models</title>
-      <link>https://Deepak91168.github.io/portfolio/projects/exp10f/</link>
+      <link>http://localhost:1313/portfolio/projects/exp10f/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://Deepak91168.github.io/portfolio/projects/exp10f/</guid>
+      <guid>http://localhost:1313/portfolio/projects/exp10f/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Designed and implemented an end-to-end NLP system to automatically summarize long-form Indian court judgments using transformer-based architectures.&lt;/p&gt;
 &lt;p&gt;This project focuses on handling &lt;strong&gt;long-context documents&lt;/strong&gt;, &lt;strong&gt;domain-specific language&lt;/strong&gt;, and &lt;strong&gt;evaluation of abstractive summarization models&lt;/strong&gt;.&lt;/p&gt;
@@ -31,9 +31,9 @@ The goal was to generate concise, meaningful summaries while preserving legal se
     </item>
     <item>
       <title>Stdlib: High-Precision Mathematical Functions (Open Source Contribution)</title>
-      <link>https://Deepak91168.github.io/portfolio/projects/vtrade/</link>
+      <link>http://localhost:1313/portfolio/projects/vtrade/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0530</pubDate>
-      <guid>https://Deepak91168.github.io/portfolio/projects/vtrade/</guid>
+      <guid>http://localhost:1313/portfolio/projects/vtrade/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Contributed to stdlib, a scientific computing library, by implementing high-performance and IEEE-compliant mathematical functions in both C and JavaScript.&lt;/p&gt;
 &lt;hr&gt;
@@ -64,6 +64,50 @@ The goal was to implement functions with &lt;strong&gt;high precision&lt;/strong
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Followed &lt;strong&gt;IEEE-754 floating-point standards&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interview Experience: MS(R) SIT IIT Delhi (Winter)</title>
+      <link>http://localhost:1313/portfolio/posts/iitd-interview-sit-msr/</link>
+      <pubDate>Sun, 07 Dec 2025 00:37:39 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/iitd-interview-sit-msr/</guid>
+      <description>&lt;h2 id=&#34;interview-experience&#34;&gt;Interview Experience&lt;/h2&gt;
+&lt;p&gt;The interview was conducted on &lt;strong&gt;7th December&lt;/strong&gt; Online.&lt;/p&gt;
+&lt;p&gt;There were &lt;strong&gt;three professors&lt;/strong&gt; on the panel. One of them was Dr. Preeti Ranjan.&lt;/p&gt;
+&lt;p&gt;At the beginning, one of the professors asked:
+&lt;em&gt;&amp;ldquo;Deepak, you have also applied for MS(R) CSE. What is your preference?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I clearly stated that my preference was &lt;strong&gt;CSE&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;They then asked about my preferred subjects, and I answered:
+&lt;strong&gt;Operating Systems&lt;/strong&gt; and &lt;strong&gt;Computer Architecture&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;technical-discussion&#34;&gt;Technical Discussion&lt;/h3&gt;
+&lt;p&gt;One of the professors started with an Operating Systems question:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interview Experience: MS(R) CSE IIT Delhi (Winter)</title>
+      <link>http://localhost:1313/portfolio/posts/terminalutility/</link>
+      <pubDate>Thu, 04 Dec 2025 00:41:17 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/terminalutility/</guid>
+      <description>&lt;h2 id=&#34;winter-admission-process&#34;&gt;Winter Admission Process&lt;/h2&gt;
+&lt;p&gt;This time, when I received the mail for the written test, I was much more confident. The pattern was again Programming + Core CSE, but unlike the summer exam, there was no break—we had 2 hours total for both sections.&lt;/p&gt;
+&lt;p&gt;The paper was definitely harder than the summer written test, without any doubt. I immediately realized that it was hard for me → hard for everyone. So I focused on accuracy, as negative marking was there (+4, -1).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interview Experience: MS(R) CSE IIT Delhi (Summer)</title>
+      <link>http://localhost:1313/portfolio/posts/exp10f/</link>
+      <pubDate>Wed, 07 May 2025 23:11:10 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/exp10f/</guid>
+      <description>&lt;h2 id=&#34;summer-admission-process&#34;&gt;Summer Admission Process&lt;/h2&gt;
+&lt;p&gt;During the summer admission cycle, my 8th semester result was pending (Current CGPI: 8.8).&lt;/p&gt;
+&lt;p&gt;I received an email from IIT Delhi for the Written Test for MS(R) CSE.&lt;br&gt;
+At that time, my end-semester exams were also going on, so I had limited preparation time.&lt;/p&gt;
+&lt;p&gt;The written test syllabus mentioned the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Structures and Algorithms&lt;/li&gt;
+&lt;li&gt;Hardware and Software Systems&lt;/li&gt;
+&lt;li&gt;Probability and Linear Algebra&lt;/li&gt;
+&lt;li&gt;Discrete Mathematics and Logic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I had not studied Probability and Linear Algebra for a long time, so I decided to focus mainly on the other subjects, where I was relatively more comfortable.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
