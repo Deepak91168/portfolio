@@ -1,5 +1,6 @@
 +++
 title = "B.Tech Major Project: Legal Judgment Summarization using Transformer Models"
+slug = "btech-major-project-nit-hamirpur"
 date = 2026-04-16T00:00:00+05:30
 draft = false
 +++

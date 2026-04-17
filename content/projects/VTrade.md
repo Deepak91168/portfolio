@@ -1,5 +1,6 @@
 +++
 title = "Stdlib: High-Precision Mathematical Functions (Open Source Contribution)"
+slug = "stdlib-opensource-contributions"
 date = 2026-04-16T00:00:00+05:30
 draft = false
 +++

@@ -1,5 +1,6 @@
 +++
 title = 'Interview Experience: MS(R) CSE IIT Delhi (Summer)'
+slug = "iit-delhi-interview-experience-cse-2025-summer"
 date = 2025-05-07T23:11:10+05:30
 draft = false
 +++
