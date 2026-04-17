@@ -15,8 +15,6 @@ theme = "PaperMod"
   favicon = "favicon.ico"
   
 [params.assets]
-  relativeURLs = true
-  canonifyURLs = true
   favicon = "favicon.ico"
 
 [params.homeInfoParams]
