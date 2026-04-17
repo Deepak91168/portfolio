@@ -60,14 +60,18 @@ I explained the entire boot sequence. As soon as I mentioned the bootloader, he 
 
 > “What runs before the bootloader? Who runs the bootloader?”
 
-I paused due to nervousness. He clarified the CPU. That moment stayed with me.
+I tried answering and more over I was confused what he was trying to ask I paused due to nervousness. He clarified the CPU. That moment stayed with me. Definately He was very knowledgeble felt bit sticket. He is one of very senior OG professors
 
 ---
 
 Dr. X (Let's say):
 
 **Can we run multiple operating systems on a single machine?**  
-I explained dual booting and virtual machines. He asked about memory allocation in VMs. I admitted honestly that I had only practical exposure and wasn’t fully clear internally. I guessed one part incorrectly.
+Yes, I explained dual booting and virtual machines. 
+
+**What happens to memory that is allocated to a virtual machine? Is it exclusively reserved for the VM, or can the host system also use it?** 
+
+I admitted that I wasn’t sure about it, even though I’ve used virtual machines a few times. I ended up making an incorrect guess.
 
 ---
 
@@ -77,8 +81,6 @@ Dr. Y (Let's say):
 I answered, but mistakenly started explaining an array-based BST implementation. That led to a long discussion on insertion, shifting, and time complexity. Initially, I was getting grilled, but then I realized my mistake and explained how insertion complexity changes in an inorder-based array representation of BST. He seemed satisfied.
 
 Finally, they asked about my programming experience and the length/scale of code I’ve worked on. I spoke about my recent open-source contributions, including implementing packages, benchmarks, and tests.
-
----
 
 **Round 1 ended.**
 
@@ -175,12 +177,12 @@ They asked how many AND gates were required:
 
 - 7 AND gates for 8-bit
 - 31 AND gates for 32-bit
-![Image 1](/images/1.png)
+![Image 1](images/1.png)
 They seemed satisfied.
 
 ---
 
-### Delay Question
+### FollowUp: Delay Question
 
 Each AND gate = 1 ns
 
@@ -194,24 +196,28 @@ They asked:
 
 **Can you optimize this delay?**
 
-I went blank again.
+I initially got stuck and couldn’t recall the optimal approach. I kept thinking aloud and exploring possibilities. One of the professors mentioned, “Deepak, you’re almost there,” which helped me stay on track.
 
-Dr. Vaishnavi said:
+Then Dr. Vaishnavi guided me with:
 
 > “How do we usually optimize a process?”
 
-Then she added:
+I initially suggested reducing ALU operations, but she pointed out that there were no ALU operations involved. She hinted toward parallelization, which made me reconsider the structure.
+
+I briefly thought about using a tree-based approach but wasn’t fully confident, so I explored other directions instead.
+
+After few minutes she added:
 
 > “Draw a binary tree.”
 
-That immediately clicked.
+I realized the computation could be restructured as a balanced AND tree, enabling parallel evaluation.
 
-I redesigned using a balanced AND tree.
+Folloup: Which I was able to answer within seconds
 
 - Delay = number of levels
 - Answer: 3 ns for 8-bit
 
-![Image 2](/images/2.png)
+![Image 2](images/2.png)
 
 They were satisfied.
 
@@ -247,8 +253,6 @@ They wished me luck.
 
 **Selected**
 
----
-
 ## Stats
 
 - 350+ candidates (Written)
@@ -262,8 +266,6 @@ They wished me luck.
 
 The IIT Delhi admission process was smooth. Both teaching and non-teaching staff were respectful and polite.
 
----
-
 ## Advice
 
 - Read past interview experiences
@@ -272,10 +274,10 @@ The IIT Delhi admission process was smooth. Both teaching and non-teaching staff
 - Be honest if you don’t know something
 - Don’t give vague answers
 - Think aloud
+- Being Nervous is ok! But try to control your nerves.
 
 You can be nervous, tense, and sometimes clueless—but face the challenge.
 
----
 
 ## Random Fact (MSR)
 
@@ -286,12 +288,9 @@ You can be nervous, tense, and sometimes clueless—but face the challenge.
 3. Systems guy (B.Tech from non-CFTI, was pursuing M.Tech from NIT Trichy)
 
 Interestingly, no AI person (but it does not signify anything).
-        
----
-
-## Closing
 
 All the best to those appearing for interviews!
+
 You can reach out to me on LinkedIn.
 
 <!-- Burnvill Crenberry  -->
