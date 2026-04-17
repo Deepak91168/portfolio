@@ -177,7 +177,7 @@ They asked how many AND gates were required:
 
 - 7 AND gates for 8-bit
 - 31 AND gates for 32-bit
-![Image 1](images/1.png)
+![Image 1](/portfolio/images/1.png)
 They seemed satisfied.
 
 ---
@@ -217,7 +217,7 @@ Folloup: Which I was able to answer within seconds
 - Delay = number of levels
 - Answer: 3 ns for 8-bit
 
-![Image 2](images/2.png)
+![Image 2](/portfolio/images/2.png)
 
 They were satisfied.
 
